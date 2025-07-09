@@ -112,6 +112,5 @@ Scenario: CT012 - Validar funcionalidade de desenho
   - Inclui inicialização do driver Appium em `Hooks.java`.
 ```
 
-
-
+![appiumjava](https://github.com/user-attachments/assets/3f6d2df2-3012-44c6-ae20-0b92431a3760)
 
